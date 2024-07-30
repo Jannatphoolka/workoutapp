@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="itemBackground">#F3E5F5</color> <!-- Light Lilac -->
+    <color name="itemTextColor">#333333</color>
+    <color name="itemCardColor">#E1BEE7</color> <!-- Lilac -->
+</resources>
